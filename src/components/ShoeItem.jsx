@@ -16,6 +16,6 @@ ShoeItem.propTypes = {
   title: PropTypes.string.isRequired,
   color: PropTypes.string.isRequired,
   price: PropTypes.string.isRequired
-}
+};
 
 export default ShoeItem;
